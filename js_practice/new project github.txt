@@ -1,0 +1,15 @@
+Step 1: git init
+Step 2: git add
+step 3: git commit -m "[your_commit_message]"
+=>eg: git commit -m "project initialized"
+Step 4: git branch -M [branch_name]
+=> Optioanl step, if you want to change your main/master branch
+eg: git branch -M main
+Step 5: git remote add origin [your_github_remote_repo_url]
+=>to kink the remote reposting on your local project 
+=>eg: git remote add origin https://github.com/[Your_user_name]/[your_repo.name]
+=>two types of Repo link
+    https
+    SSH
+Step 6: git push -u origin
+    At initial push add -u 
