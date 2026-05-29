@@ -1,6 +1,6 @@
 Step 1: git init
-Step 2: git add .
-step 3: git commit -m "[your_commit_message]"
+Step 2: git add .                            @#$%^&*(needed when updating)
+step 3: git commit -m "[your_commit_message]"       @#$%^&*
     =>eg: git commit -m "project initialized"
 Step 4: git branch -M [branch_name]
     => Optioanl step, if you want to change your main/master branch
@@ -13,7 +13,7 @@ Step 5: git remote add origin [your_github_remote_repo_url]
         SSH
 Step 6: git push -u origin
     At initial push, add -u 
-    After, git push
+    After, git push                     @#$%^&*
     or  git push origin [your_branch]
 
 after git add
